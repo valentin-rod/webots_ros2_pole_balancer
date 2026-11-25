@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<robot name="pole_robot">
+    <webots>
+        <plugin type="cartpole_pkg.cartpole_driver.CartpoleDriver" />
+    </webots>
+</robot>
